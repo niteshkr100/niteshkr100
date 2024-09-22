@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
 <h3 align="center">Believed in small detailing to enhance user experience.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshkr100&label=Profile%20views&color=0e75b6&style=flat" alt="niteshkr100" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshkr100&label=Profile%20views&color=008000&style=flat" alt="niteshkr100" /> </p>
 
 - 🌱 I’m currently learning **React Native**
 
