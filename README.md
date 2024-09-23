@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
 <h3 align="center">Open to Work | Hire Me</h3>
 <h3 align="center">Believed in small detailing to enhance user experience.</h3>
-<h2 align="center">Minimum Charges to create a website $250</h2>
+<h4 align="center">Minimum Charges to create a website $250</h4>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshkr100&label=Profile%20views&color=008000&style=flat" alt="niteshkr100" /> </p>
 
