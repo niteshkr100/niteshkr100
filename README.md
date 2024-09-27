@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio-xuyh.vercel.app](portfolio-xuyh.vercel.app)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Next+React**
 
 - 📫 How to reach me **niteshkumar100gmail.com**
 
