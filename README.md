@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Latest Tech**
 
-- 👨‍💻 All of my projects are available at [portfolio-xuyh.vercel.app](portfolio-xuyh.vercel.app)
+- 👨‍💻 All of my projects are available at https://portfolio-xuyh.vercel.app/
 
 - 💬 Ask me about **Next+React**
 
