@@ -2,7 +2,7 @@
 <h2 align="center">Open to Work | Hire Me</h2>
 </hr>
 <h3 align="center">Believed in small detailing to enhance user experience.</h3>
-<h3 align="center" style="color: skyblue;">Give the figma design I will give you the website! If you understand this line, you understand my capabilities.</h3>
+<h3 align="center" style="color: skyblue">Give the figma design I will give you the website! If you understand this line, you understand my capabilities.</h3>
 
  
 
