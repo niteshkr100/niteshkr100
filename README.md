@@ -17,7 +17,7 @@ $${\color{blue}Give \space the \space figma \space design \space I \space will \
 
 - 💬 Ask me about **Next+React**
 
-- 📫 How to reach me **niteshkumar100gmail.com**
+- 📫 How to reach me **niteshkumarxyz100gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
