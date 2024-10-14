@@ -11,7 +11,7 @@ $${\color{lightgreen}Give \space me \space the \space figma \space design \space
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshkr100&label=Profile%20views&color=008000&style=flat" alt="niteshkr100" /> </p>
 
-- 🌱 I’m currently learning **Latest Tech**
+- 🌱 I’m currently learning **RN Tech**
 
 - 👨‍💻 All of my projects are available at https://portfolio-xuyh.vercel.app/
 
