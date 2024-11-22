@@ -7,7 +7,7 @@
 $${\color{lightgreen}Give \space me \space the \space figma \space design \space I \space will \space  \space give \space you \space the \space website! \space If \space you  \space understand \space this \space line, \space  you \space understand  \space my \space capabilities.}$$
  
 
-<h4 align="center">Minimum Charges to create a website $299</h4>
+<h4 align="center">Minimum Charges to create a website $199</h4>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshkr100&label=Profile%20views&color=008000&style=flat" alt="niteshkr100" /> </p>
 
