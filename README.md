@@ -3,8 +3,9 @@
 </hr>
 <h3 align="center">Believed in small detailing to enhance user experience.</h3>
 <h3 align="center"  ></h3>
-$${\color{lightgreen} \space.}$$
- $${\color{lightgreen}  \space  Hare \space Krishna.}$$
+
+ 
+$${\color{lightgreen}  \space  Hare \space Krishna.}$$
  
 $${\color{lightgreen}  \space Give \space me \space the \space figma \space design \space I \space will \space  \space give \space you \space the \space website! \space If \space you  \space understand \space this \space line, \space  you \space understand  \space my \space capabilities.}$$
 
