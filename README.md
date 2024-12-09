@@ -3,11 +3,11 @@
 </hr>
 <h3 align="center">Believed in small detailing to enhance user experience.</h3>
 <h3 align="center"  ></h3>
-$${\color{lightgreen} \space Hare \space Krishna.}$$
+$${\color{lightgreen} \space.}$$
+ $${\color{lightgreen}  \space  Hare \space Krishna.}$$
  
 $${\color{lightgreen}  \space Give \space me \space the \space figma \space design \space I \space will \space  \space give \space you \space the \space website! \space If \space you  \space understand \space this \space line, \space  you \space understand  \space my \space capabilities.}$$
-$${\color{lightgreen}  \space Give \space me \space the \space figma \space design \space I \space will \space  \space give \space you \space the \space website! \space If \space you  \space understand \space this \space line, \space  you \space understand  \space my \space capabilities.}$$
- 
+
  
 
 <h4 align="center">Minimum Charges to create a website $199</h4>
