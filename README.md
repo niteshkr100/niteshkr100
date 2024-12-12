@@ -16,6 +16,8 @@ $${\color{lightgreen}  \space Give \space me \space the \space figma \space desi
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshkr100&label=Profile%20views&color=008000&style=flat" alt="niteshkr100" /> </p>
 
 - 🌱 I’m currently learning **ReactNative**
+  
+-  🧿 Gssoc'24 Open source contributor **Rank-320**
 
 - 👨‍💻 All of my projects are available at https://portfolio-xuyh.vercel.app/
 
