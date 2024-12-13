@@ -19,8 +19,6 @@ $${\color{lightgreen}  \space Give \space me \space the \space figma \space desi
   
 -  🧿 Gssoc'24 Open source contributor **Rank-320**
 
-//- 👨‍💻 All of my projects are available at https://portfolio-xuyh.vercel.app/
-
 - 💬 Ask me about **Next+React**
 
 - 📫 How to reach me **niteshkumarxyz100gmail.com**
