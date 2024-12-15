@@ -34,7 +34,7 @@ $${\color{lightgreen}  \space Give \space me \space the \space figma \space desi
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niteshkr100&show_icons=true&locale=en&layout=compact" alt="niteshkr100" /></p>
  </div>
-<br>
+ 
 <div>
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
